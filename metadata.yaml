@@ -1,0 +1,34 @@
+_repo: An-Appeal-to-the-People-in-Behalf-of-Their-Rights-as-Authorized-Interpreters-of-the-Bible_56354
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beecher, Catharine Esther
+    aliases:
+    - Beecher, Catharine E.
+    - Beecher, Catherine E. (Catherine Esther)
+    - Beecher, C. E. (Catherine Esther)
+    birthdate: 1800
+    deathdate: 1878
+    gutenberg_agent_id: '2109'
+    url: http://www.gutenberg.org/2009/agents/2109
+    wikipedia: http://en.wikipedia.org/wiki/Catharine_Beecher
+description: ''
+gutenberg_issued: '2018-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcsh 'Predestination'
+- !lcc 'BR'
+- !lcsh 'Grace (Theology)'
+- !lcsh 'Religion -- Philosophy'
+- !lcc 'BL'
+- GITenberg
+title: An Appeal to the People in Behalf of Their Rights as Authorized Interpreters
+  of the Bible
+url: http://www.gutenberg.org/ebooks/56354
